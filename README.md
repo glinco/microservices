@@ -1,0 +1,1 @@
+This is a simple project for my own practice regarding microservices architecture, communication between these, gateway, service discovery and in the future, message queues with rabbit and log stream with kafka. Just for fun. no hardcore stuff here.
